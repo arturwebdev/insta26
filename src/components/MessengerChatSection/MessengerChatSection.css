@@ -1,0 +1,24 @@
+.Messenger-right-col {
+  width: 70%;
+  min-height: 88vh;
+  overflow-y: auto;
+  scroll-behavior: auto;
+}
+
+.UserSction {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 0 20px;
+  height: 50px;
+  line-height: 50px;
+  overflow-y: hidden;
+  border-bottom: 1px solid #dfdfdf;
+  background-color: blueviolet;
+  border-radius: 20px;
+}
+.UserSction p {
+  text-align: center;
+  color: white;
+}
